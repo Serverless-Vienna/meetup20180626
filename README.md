@@ -1,5 +1,5 @@
-# meetup20180312-news
-Organizational and News slides of the meetup on 2018-03-12
+# meetup20180626
+Organizational and News slides of the meetup on 2018-06-26
 
 Development version
 > npm start
